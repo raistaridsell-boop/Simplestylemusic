@@ -143,19 +143,19 @@ DEBUG_IGNORE_LOG = True
 # ━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ɪ ᴍ ᴀ ɢ ᴇ   ᴜ ʀ ʟ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/45mssm.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/45mssm.jpg")
-HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/d6c2eq.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/lrwbj6.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/z1h6ow.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/z1h6ow.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/z1h6ow.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/iz6z4g.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/u2d0p7.jpg")
+HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/qpllpk.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/iz6z4g.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/u2d0p7.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/iz6z4g.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/u2d0p7.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/qpllpk.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/iz6z4g.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
