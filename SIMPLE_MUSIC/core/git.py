@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 Simple Music Project
-# 🔹 Developed & Maintained by: Lucky Raja (https://github.com/The-LuckyX)
+# 🔸 KRISH Music Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Funatira
+# ❤️ Made with dedication and love by krish
 # -----------------------------------------------
 
 import asyncio
