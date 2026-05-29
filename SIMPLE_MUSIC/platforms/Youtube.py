@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+# 🔸 FERRARI MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 
 import asyncio
@@ -24,8 +24,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from py_yt import VideosSearch, Playlist
 
-from SIMPLE_MUSIC import LOGGER
-from SIMPLE_MUSIC.utils.formatters import time_to_seconds
+from KRISH_MUSIC import LOGGER
+from KRISH_MUSIC.utils.formatters import time_to_seconds
 
 from config import API_URL, VIDEO_API_URL, API_KEY, YT_API_KEY, YTPROXY_URL
 
