@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒ɪᴍᴘʟᴇ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 ㅤㅤ𝓒𝓱𝓮𝓻𝓻𝔂  𝘅 𝐌ᴜsɪᴄ 」─
 </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙸𝙼𝙿𝙻𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝗦+𝙸𝗦+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗜𝗠𝗣𝗟𝗘)](https://github.com/Simple-Boy-1k/SIMPLE_MUSIC)
