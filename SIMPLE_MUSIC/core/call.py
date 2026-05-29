@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+# 🔸 KRISH MUSIC Project
+# 🔹 Developed & Maintained by: Simple Boy (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 import asyncio
 import os
@@ -21,9 +21,9 @@ from pyrogram.types import InlineKeyboardMarkup
 from pytgcalls import PyTgCalls, exceptions, types
 from pytgcalls.pytgcalls_session import PyTgCallsSession
 import config
-from SIMPLE_MUSIC import LOGGER, YouTube, app
-from SIMPLE_MUSIC.misc import db
-from SIMPLE_MUSIC.utils.database import (
+from KRISH_MUSIC import LOGGER, YouTube, app
+from KRISH_MUSIC.misc import db
+from KRISH_MUSIC.utils.database import (
     add_active_chat,
     add_active_video_chat,
     get_lang,
@@ -35,11 +35,11 @@ from SIMPLE_MUSIC.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from SIMPLE_MUSIC.utils.exceptions import AssistantErr
-from SIMPLE_MUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
-from SIMPLE_MUSIC.utils.inline.play import stream_markup
-from SIMPLE_MUSIC.utils.stream.autoclear import auto_clean
-from SIMPLE_MUSIC.utils.thumbnails import get_thumb as gen_thumb
+from KRISH_MUSIC.utils.exceptions import AssistantErr
+from KRISH_MUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
+from KRISH_MUSIC.utils.inline.play import stream_markup
+from KRISH_MUSIC.utils.stream.autoclear import auto_clean
+from KRISH_MUSIC.utils.thumbnails import get_thumb as gen_thumb
 from strings import get_string
 
 autoend = {}
