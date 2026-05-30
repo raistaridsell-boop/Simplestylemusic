@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+#  🔸 FERRARI MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,14 +9,14 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ChatPermissions
 from pyrogram.errors.exceptions.bad_request_400 import ChatAdminRequired, UserAdminInvalid, BadRequest
 
 import datetime
-from SIMPLE_MUSIC import app
+from KRISH_MUSIC import app
 
 def mention(user, name, mention=True):
     if mention:
