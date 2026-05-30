@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+# 🔸 KRISH MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 # -----------------------------------------------
 
