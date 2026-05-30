@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+#  🔸 FERRARI MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,15 +9,15 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 from asyncio import sleep
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.errors import MessageDeleteForbidden, RPCError
 from pyrogram.types import Message
-from SIMPLE_MUSIC.utils.Simple_ban import admin_filter
-from SIMPLE_MUSIC import app
+from KRISH_MUSIC.utils.Simple_ban import admin_filter
+from KRISH_MUSIC import app
 
 
 @app.on_message(filters.command("purge") & admin_filter)
