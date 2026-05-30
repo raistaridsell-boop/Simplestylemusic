@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+# 🔸 FERRARI MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,7 +9,7 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 import os
 import random
@@ -442,15 +442,15 @@ async def vote_change(client, CallbackQuery, _):
 
 # 🛠️ UPDATED REPO SECTION: Custom Name & Links (No hidden codes!)
 _c = "repo"
-_d_url = "https://t.me/Simple_Boy_1k"
-_r_url = "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC.git"
-_i_url = "https://img.sanishtech.com/u/634954cfa576380fda54874a69b96c05.jpg"
+_d_url = "https://t.me/cherryxupdate"
+_r_url = "https://t.me/cherryxowner"
+_i_url = "https://files.catbox.moe/iz6z4g.jpg"
 _btn_1 = "🌺ᴏᴡɴᴇʀ🌺"
 _btn_2 = "🌹ʀᴇᴘᴏ🌹"
 
 start_txt = """<b>❖ ʜᴇʏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ.
 
-● ɪ ᴀᴍ ➥ ꜱɪᴍᴘʟᴇ ᴍᴜꜱɪᴄ ʙᴏᴛ.
+● ɪ ᴀᴍ ➥ KRISH ᴍᴜꜱɪᴄ ʙᴏᴛ.
 
 ❖ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴜꜱɪᴄ ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</b>"""
 
