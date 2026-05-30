@@ -1,6 +1,6 @@
 # -----------------------------------------------
-# 🔸 SIMPLE MUSIC Project
-# 🔹 Developed & Maintained by: Simple Boy (https://github.com/Simple-Boy-1k)
+#  🔸 FERRARI MUSIC Project
+# 🔹 Developed & Maintained by: KRISHNXT (https://github.com/raistaridsell-boop)
 # 📅 Copyright © 2026 – All Rights Reserved
 #
 # 📖 License:
@@ -9,15 +9,15 @@
 # Commercial use, redistribution, or removal of this notice is strictly prohibited
 # without prior written permission from the author.
 #
-# ❤️ Made with dedication and love by Simple_Boy_1k
+# ❤️ Made with dedication and love by raistaridsell-boop 
 # -----------------------------------------------
 import asyncio
 from pyrogram import filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
-from SIMPLE_MUSIC import YouTube, app
-from SIMPLE_MUSIC.core.call import SIMPLE
-from SIMPLE_MUSIC.misc import SUDOERS, db
-from SIMPLE_MUSIC.utils.database import (
+from KRISH_MUSIC import YouTube, app
+from KRISH_MUSIC.core.call import SIMPLE
+from KRISH_MUSIC.misc import SUDOERS, db
+from KRISH_MUSIC.utils.database import (
     get_active_chats,
     get_lang,
     get_upvote_count,
@@ -34,12 +34,12 @@ from pyrogram.errors import (
     UserAlreadyParticipant,
     UserNotParticipant,
 )
-from SIMPLE_MUSIC.utils.database import get_assistant
-from SIMPLE_MUSIC.utils.decorators.language import languageCB
-from SIMPLE_MUSIC.utils.formatters import seconds_to_min
-from SIMPLE_MUSIC.utils.inline import close_markup, stream_markup, stream_markup_timer
-from SIMPLE_MUSIC.utils.stream.autoclear import auto_clean
-from SIMPLE_MUSIC.utils.thumbnails import get_thumb
+from KRISH_MUSIC.utils.database import get_assistant
+from KRISH_MUSIC.utils.decorators.language import languageCB
+from KRISH_MUSIC.utils.formatters import seconds_to_min
+from KRISH_MUSIC.utils.inline import close_markup, stream_markup, stream_markup_timer
+from KRISH_MUSIC.utils.stream.autoclear import auto_clean
+from KRISH_MUSIC.utils.thumbnails import get_thumb
 from config import (
     BANNED_USERS,
     SOUNCLOUD_IMG_URL,
